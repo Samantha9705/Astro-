@@ -1,0 +1,24 @@
+nav{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto;
+    border-radius: 15px;
+}
+
+div.logos{
+    display: grid;
+     grid-template-columns: auto auto;
+
+}
+
+div.logos{
+    display: flex;
+}
+
+div.navigation{
+    align-content: center;
+}
+
+/* button, h2{
+
+} */
