@@ -36,10 +36,10 @@ Practice component modularization and code separation.
 
 ```bash
 # Clona el repositorio / Clone the repository
-git clone https://github.com/Samantha9705/NOMBRE-DEL-REPO
+git clone repository Link
 
 # Accede al proyecto / Enter the project folder
-cd NOMBRE-DEL-REPO
+cd NAME-OF-REPO
 
 # Instala las dependencias / Install dependencies
 npm install
